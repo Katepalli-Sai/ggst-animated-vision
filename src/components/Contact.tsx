@@ -14,13 +14,13 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    value: "+91 98765 43210",
-    href: "tel:+919876543210"
+    value: "xxxxxxxxx",
+    href: "xxxxxxxxxx"
   },
   {
     icon: MapPin,
     title: "Location",
-    value: "Bangalore, Karnataka, India",
+    value: "49-TANGEDUMALLI,MARTUR,Tangedumalli,Prakasam,Ongole,Andhra Pradesh,India,523302",
     href: "#"
   }
 ];
