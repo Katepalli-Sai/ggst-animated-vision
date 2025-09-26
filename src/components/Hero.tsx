@@ -12,7 +12,7 @@ const FloatingShape = ({ className, delay = 0 }: { className?: string; delay?: n
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-hero">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-hero pt-20">
       {/* 3D Floating Elements */}
       <FloatingShape className="top-20 left-10" delay={0} />
       <FloatingShape className="top-40 right-20" delay={1} />
