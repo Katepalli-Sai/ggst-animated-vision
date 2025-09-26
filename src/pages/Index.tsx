@@ -34,7 +34,7 @@ const Index = () => {
             GGST Innovations Private Limited
           </div>
           <p className="text-muted-foreground text-sm">
-            © 2024 GGST Innovations. All rights reserved. | Transforming businesses through innovative technology solutions.
+            © 2025 GGST Innovations. All rights reserved. | Transforming businesses through innovative technology solutions.
           </p>
         </div>
       </footer>
